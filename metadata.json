@@ -1,0 +1,7 @@
+{
+  "name": "Sales Master - سیستەمی بەڕێوەبردنی فرۆشتن",
+  "description": "An Arabic/Kurdish specialized sales management application for field agents to track markets, sales, debts, and GPS locations.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
